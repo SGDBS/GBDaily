@@ -1,4 +1,4 @@
-![title](..\..\pic\title.jpg)
+![title](../../pic/title.jpg)
 
 **2021年11月26日|114514-003期**
 
